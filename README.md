@@ -13,3 +13,4 @@ Currently the development is only tested on ubuntu 18.04.
 
 1. Clone https://github.com/ros-planning/navigation2 to `..` (parallel)
 2. `make build`
+3. Test with `python3 test.py`
