@@ -7,6 +7,7 @@ Python wrapper around http://wiki.ros.org/costmap_2d
 Currently the development is only tested on ubuntu 18.04.
 
 - ROS2 Dashing
+- `pybind11`
 
 ## Development
 
