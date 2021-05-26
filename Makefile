@@ -7,7 +7,6 @@ build:
 	-I../navigation2/nav2_costmap_2d/include \
 	-I../navigation2/nav2_util/include \
 	-I/opt/ros/dashing/include \
-	-L/opt/ros/dashing/lib \
 	../navigation2/nav2_costmap_2d/src/costmap_2d.cpp \
 	costmap_2d_py.cpp \
 	-o costmap_2d_py$(EXECUTABLE_SUFFIX)
